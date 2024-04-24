@@ -1,0 +1,7 @@
+﻿  Employee.cpp
+  Engineer.cpp
+  main.cpp
+C:\Users\Sc\source\repos\OOP_Task\OOP_Task\main.cpp(8,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Sales.cpp
+  Generating Code...
+  OOP_Task.vcxproj -> C:\Users\Sc\source\repos\OOP_Task\x64\Debug\OOP_Task.exe
